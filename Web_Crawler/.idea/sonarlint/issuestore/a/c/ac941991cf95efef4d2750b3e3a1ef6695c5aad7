@@ -1,0 +1,20 @@
+
+b
+java:S1192<"LDefine a constant instead of duplicating this literal "Noi dung: " 16 times.(Òßä“
+b
+java:S1192;"GDefine a constant instead of duplicating this literal "Nam: " 16 times.(ƒ¦¸şÿÿÿÿ
+s	java:S1355"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 95 to the 15 allowed.(ÒËµØ
+S
+java:S1854"8Remove this useless assignment to local variable "rows".(„ÛÄÌùÿÿÿÿ
+D
+java:S1481")Remove this unused "rows" local variable.(„ÛÄÌùÿÿÿÿ
+;
+java:S16593" Declare "nd" on a separate line.(ïÕ©àùÿÿÿÿ
+E
+java:S11970"*Move the array designators [] to the type.(ù¡›±şÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(­«­¶
+P	java:S125A"<This block of commented-out lines of code should be removed.(ñÔÖI
+Q	java:S125L"<This block of commented-out lines of code should be removed.(ÊüÖø
+V	java:S125W"<This block of commented-out lines of code should be removed.(ª™³±úÿÿÿÿ

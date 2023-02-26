@@ -1,0 +1,618 @@
+[
+    {
+        "Lê Văn Thịnh": {
+            "Thứ tự": "1",
+            "Đời vua": "Lý Nhân Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": "Trạng nguyên đầu tiên.",
+            "Tên": "Lê Văn Thịnh",
+            "Năm đỗ trạng nguyên": "1075",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Mạc Hiển Tích": {
+            "Thứ tự": "2",
+            "Đời vua": "Lý Nhân Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Tổ 5 đời của Trạng nguyên Mạc Đĩnh Chi.",
+            "Tên": "Mạc Hiển Tích",
+            "Năm đỗ trạng nguyên": "1086",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Bùi Quốc Khái": {
+            "Thứ tự": "3",
+            "Đời vua": "Lý Cao Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Ông tổ nghề làm lọng",
+            "Tên": "Bùi Quốc Khái",
+            "Năm đỗ trạng nguyên": "1185",
+            "Năm sinh năm mất": "1141-1234"
+        }
+    },
+    {
+        "Nguyễn Công Bình": {
+            "Thứ tự": "4",
+            "Đời vua": "Lý Huệ Tông",
+            "Quê": "Vĩnh Phúc",
+            "Ghi chú": "Ông tổ nghề nuôi ong.",
+            "Tên": "Nguyễn Công Bình",
+            "Năm đỗ trạng nguyên": "1213",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Trương Hanh": {
+            "Thứ tự": "5",
+            "Đời vua": "Trần Thái Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Trạng nguyên đầu tiên của triều đại nhà Trần.",
+            "Tên": "Trương Hanh",
+            "Năm đỗ trạng nguyên": "1232",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Quan Quang": {
+            "Thứ tự": "6",
+            "Đời vua": "Trần Thái Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Quan Quang",
+            "Năm đỗ trạng nguyên": "1234",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Lưu Miễn": {
+            "Thứ tự": "7",
+            "Đời vua": "Trần Thái Tông",
+            "Quê": " ",
+            "Ghi chú": " ",
+            "Tên": "Lưu Miễn",
+            "Năm đỗ trạng nguyên": "1239",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Hiền": {
+            "Thứ tự": "8",
+            "Đời vua": "Trần Thái Tông",
+            "Quê": "Nam Định",
+            "Ghi chú": "Trạng nguyên nhỏ tuổi nhất.",
+            "Tên": "Nguyễn Hiền",
+            "Năm đỗ trạng nguyên": "1247",
+            "Năm sinh năm mất": "1234-1255"
+        }
+    },
+    {
+        "Trần Quốc Lặc": {
+            "Thứ tự": "9",
+            "Đời vua": "Trần Thái Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Kinh Trạng nguyên",
+            "Tên": "Trần Quốc Lặc",
+            "Năm đỗ trạng nguyên": "1256",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Trương Xán": {
+            "Thứ tự": "10",
+            "Đời vua": "Trần Thái Tông",
+            "Quê": "Quảng Bình",
+            "Ghi chú": "Trại Trạng nguyên",
+            "Tên": "Trương Xán",
+            "Năm đỗ trạng nguyên": "1256",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Trần Cố": {
+            "Thứ tự": "11",
+            "Đời vua": "Trần Thánh Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Kinh Trạng nguyên",
+            "Tên": "Trần Cố",
+            "Năm đỗ trạng nguyên": "1266",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Bạch Liêu": {
+            "Thứ tự": "12",
+            "Đời vua": "Trần Thánh Tông",
+            "Quê": "Nghệ An",
+            "Ghi chú": "Trại Trạng nguyên",
+            "Tên": "Bạch Liêu",
+            "Năm đỗ trạng nguyên": "1266",
+            "Năm sinh năm mất": "1236-1315"
+        }
+    },
+    {
+        "Lý Đạo Tái": {
+            "Thứ tự": "13",
+            "Đời vua": "Trần Thánh Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": "Tổ thứ ba (Huyền Quang) của thiền phái Trúc Lâm Yên Tử",
+            "Tên": "Lý Đạo Tái",
+            "Năm đỗ trạng nguyên": "1272",
+            "Năm sinh năm mất": "1254-1334"
+        }
+    },
+    {
+        "Đào Tiêu": {
+            "Thứ tự": "14",
+            "Đời vua": "Trần Thánh Tông",
+            "Quê": "Thanh Hóa",
+            "Ghi chú": " ",
+            "Tên": "Đào Tiêu",
+            "Năm đỗ trạng nguyên": "1275",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Mạc Đĩnh Chi": {
+            "Thứ tự": "15",
+            "Đời vua": "Trần Anh Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Cháu 5 đời của Mạc Hiển Tích,\nLưỡng quốc Trạng nguyên",
+            "Tên": "Mạc Đĩnh Chi",
+            "Năm đỗ trạng nguyên": "1304",
+            "Năm sinh năm mất": "1272-1346"
+        }
+    },
+    {
+        "Đào Sư Tích": {
+            "Thứ tự": "16",
+            "Đời vua": "Trần Duệ Tông",
+            "Quê": "Nam Định",
+            "Ghi chú": " ",
+            "Tên": "Đào Sư Tích",
+            "Năm đỗ trạng nguyên": "1374",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Lưu Thúc Kiệm": {
+            "Thứ tự": "17",
+            "Đời vua": "Hồ Quý Ly",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Lưu Thúc Kiệm",
+            "Năm đỗ trạng nguyên": "1400",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Trực": {
+            "Thứ tự": "18",
+            "Đời vua": "Lê Thái Tông",
+            "Quê": "Hà Nội",
+            "Ghi chú": "Lưỡng quốc Trạng nguyên- văn bia đầu tiên.",
+            "Tên": "Nguyễn Trực",
+            "Năm đỗ trạng nguyên": "1442",
+            "Năm sinh năm mất": "1417-1474"
+        }
+    },
+    {
+        "Nguyễn Nghiêu Tư": {
+            "Thứ tự": "19",
+            "Đời vua": "Lê Nhân Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": "Trạng Lợn, Lưỡng quốc trạng nguyên.",
+            "Tên": "Nguyễn Nghiêu Tư",
+            "Năm đỗ trạng nguyên": "1448",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Lương Thế Vinh": {
+            "Thứ tự": "20",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Nam Định",
+            "Ghi chú": "Trạng Lường",
+            "Tên": "Lương Thế Vinh",
+            "Năm đỗ trạng nguyên": "1463",
+            "Năm sinh năm mất": "1441-1496"
+        }
+    },
+    {
+        "Vũ Kiệt": {
+            "Thứ tự": "21",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Vũ Kiệt",
+            "Năm đỗ trạng nguyên": "1472",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Vũ Tuấn Chiêu": {
+            "Thứ tự": "22",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Nam Định",
+            "Ghi chú": " ",
+            "Tên": "Vũ Tuấn Chiêu",
+            "Năm đỗ trạng nguyên": "1475",
+            "Năm sinh năm mất": "1425-?"
+        }
+    },
+    {
+        "Phạm Đôn Lễ": {
+            "Thứ tự": "23",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Thái Bình",
+            "Ghi chú": "Trạng Chiếu (Tam nguyên)",
+            "Tên": "Phạm Đôn Lễ",
+            "Năm đỗ trạng nguyên": "1481",
+            "Năm sinh năm mất": "1454-?"
+        }
+    },
+    {
+        "Nguyễn Quang Bật": {
+            "Thứ tự": "24",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Quang Bật",
+            "Năm đỗ trạng nguyên": "1484",
+            "Năm sinh năm mất": "1463-1505"
+        }
+    },
+    {
+        "Trần Sùng Dĩnh": {
+            "Thứ tự": "25",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": " ",
+            "Tên": "Trần Sùng Dĩnh",
+            "Năm đỗ trạng nguyên": "1487",
+            "Năm sinh năm mất": "1465-?"
+        }
+    },
+    {
+        "Vũ Duệ": {
+            "Thứ tự": "26",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Phú Thọ",
+            "Ghi chú": " ",
+            "Tên": "Vũ Duệ",
+            "Năm đỗ trạng nguyên": "1490",
+            "Năm sinh năm mất": " ?-1520"
+        }
+    },
+    {
+        "Vũ Tích": {
+            "Thứ tự": "27",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": " ",
+            "Tên": "Vũ Tích",
+            "Năm đỗ trạng nguyên": "1493",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nghiêm Hoản": {
+            "Thứ tự": "28",
+            "Đời vua": "Lê Thánh Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Nghiêm Hoản",
+            "Năm đỗ trạng nguyên": "1496",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Đỗ Lý Khiêm": {
+            "Thứ tự": "29",
+            "Đời vua": "Lê Hiển Tông",
+            "Quê": "Thái Bình",
+            "Ghi chú": " ",
+            "Tên": "Đỗ Lý Khiêm",
+            "Năm đỗ trạng nguyên": "1499",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Lê Ích Mộc": {
+            "Thứ tự": "30",
+            "Đời vua": "Lê Hiển Tông",
+            "Quê": "Hải Phòng",
+            "Ghi chú": " ",
+            "Tên": "Lê Ích Mộc",
+            "Năm đỗ trạng nguyên": "1502",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Lê Nại": {
+            "Thứ tự": "31",
+            "Đời vua": "Lê Uy Mục",
+            "Quê": "Hải Dương",
+            "Ghi chú": "Trạng Ăn",
+            "Tên": "Lê Nại",
+            "Năm đỗ trạng nguyên": "1505",
+            "Năm sinh năm mất": "1528-?"
+        }
+    },
+    {
+        "Nguyễn Giản Thanh và Hứa Tam Tỉnh￼￼": {
+            "Thứ tự": "32",
+            "Đời vua": "Lê Uy Mục",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": "Trạng Me",
+            "Tên": "Nguyễn Giản Thanh và Hứa Tam Tỉnh￼￼",
+            "Năm đỗ trạng nguyên": "1508",
+            "Năm sinh năm mất": "1482-?"
+        }
+    },
+    {
+        "Hoàng Nghĩa Phú": {
+            "Thứ tự": "33",
+            "Đời vua": "Lê Tương Dực",
+            "Quê": "Hà Nội",
+            "Ghi chú": " ",
+            "Tên": "Hoàng Nghĩa Phú",
+            "Năm đỗ trạng nguyên": "1511",
+            "Năm sinh năm mất": "1479-?"
+        }
+    },
+    {
+        "Nguyễn Đức Lượng": {
+            "Thứ tự": "34",
+            "Đời vua": "Lê Tương Dực",
+            "Quê": "Hà Nội",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Đức Lượng",
+            "Năm đỗ trạng nguyên": "1514",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Ngô Miễn Thiệu": {
+            "Thứ tự": "35",
+            "Đời vua": "Lê Chiêu Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Ngô Miễn Thiệu",
+            "Năm đỗ trạng nguyên": "1518",
+            "Năm sinh năm mất": "1498-?"
+        }
+    },
+    {
+        "Hoàng Văn Tán": {
+            "Thứ tự": "36",
+            "Đời vua": "Lê Cung Hoàng",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Hoàng Văn Tán",
+            "Năm đỗ trạng nguyên": "1523",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Trần Tất Văn": {
+            "Thứ tự": "37",
+            "Đời vua": "Lê Cung Hoàng",
+            "Quê": "Hải Phòng",
+            "Ghi chú": " ",
+            "Tên": "Trần Tất Văn",
+            "Năm đỗ trạng nguyên": "1526",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Đỗ Tống": {
+            "Thứ tự": "38",
+            "Đời vua": "Mạc Thái Tổ",
+            "Quê": "Hưng Yên",
+            "Ghi chú": " ",
+            "Tên": "Đỗ Tống",
+            "Năm đỗ trạng nguyên": "1529",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Thiến": {
+            "Thứ tự": "39",
+            "Đời vua": "Mạc Thái Tông",
+            "Quê": "Hà Nội",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Thiến",
+            "Năm đỗ trạng nguyên": "1532",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Bỉnh Khiêm": {
+            "Thứ tự": "40",
+            "Đời vua": "Mạc Thái Tông",
+            "Quê": "Hải Phòng",
+            "Ghi chú": "Trạng Trình",
+            "Tên": "Nguyễn Bỉnh Khiêm",
+            "Năm đỗ trạng nguyên": "1535",
+            "Năm sinh năm mất": "1491-1585"
+        }
+    },
+    {
+        "Giáp Hải": {
+            "Thứ tự": "41",
+            "Đời vua": "Mạc Thái Tông",
+            "Quê": "Bắc Giang",
+            "Ghi chú": " ",
+            "Tên": "Giáp Hải",
+            "Năm đỗ trạng nguyên": "1538",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Kỳ": {
+            "Thứ tự": "42",
+            "Đời vua": "Mạc Hiến Tông",
+            "Quê": "Hưng Yên",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Kỳ",
+            "Năm đỗ trạng nguyên": "1541",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Dương Phúc Tư": {
+            "Thứ tự": "43",
+            "Đời vua": "Mạc Tuyên Tông",
+            "Quê": "Hưng Yên",
+            "Ghi chú": " ",
+            "Tên": "Dương Phúc Tư",
+            "Năm đỗ trạng nguyên": "1547",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Trần Văn Bảo": {
+            "Thứ tự": "44",
+            "Đời vua": "Mạc Tuyên Tông",
+            "Quê": "Nam Định",
+            "Ghi chú": " ",
+            "Tên": "Trần Văn Bảo",
+            "Năm đỗ trạng nguyên": "1550",
+            "Năm sinh năm mất": "1524-1610"
+        }
+    },
+    {
+        "Nguyễn Lượng Thái": {
+            "Thứ tự": "45",
+            "Đời vua": "Mạc Tuyên Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Lượng Thái",
+            "Năm đỗ trạng nguyên": "1553",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Phạm Trấn": {
+            "Thứ tự": "46",
+            "Đời vua": "Mạc Tuyên Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": " ",
+            "Tên": "Phạm Trấn",
+            "Năm đỗ trạng nguyên": "1556",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Đặng Thì Thố": {
+            "Thứ tự": "47",
+            "Đời vua": "Mạc Tuyên Tông",
+            "Quê": "Hải Dương",
+            "Ghi chú": "(là Thám hoa)",
+            "Tên": "Đặng Thì Thố",
+            "Năm đỗ trạng nguyên": "1559",
+            "Năm sinh năm mất": "1526-?"
+        }
+    },
+    {
+        "Phạm Duy Quyết": {
+            "Thứ tự": "48",
+            "Đời vua": "Mạc Mậu Hợp",
+            "Quê": "Hải Dương",
+            "Ghi chú": " ",
+            "Tên": "Phạm Duy Quyết",
+            "Năm đỗ trạng nguyên": "1562",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Phạm Quang Tiến": {
+            "Thứ tự": "49",
+            "Đời vua": "Mạc Mậu Hợp",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Phạm Quang Tiến",
+            "Năm đỗ trạng nguyên": "1565",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Vũ Giới": {
+            "Thứ tự": "50",
+            "Đời vua": "Mạc Mậu Hợp",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": " ",
+            "Tên": "Vũ Giới",
+            "Năm đỗ trạng nguyên": "1577",
+            "Năm sinh năm mất": " "
+        }
+    },
+    {
+        "Nguyễn Xuân Chính": {
+            "Thứ tự": "51",
+            "Đời vua": "Lê Thần Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": "Trạng nguyên lớn tuổi nhất",
+            "Tên": "Nguyễn Xuân Chính",
+            "Năm đỗ trạng nguyên": "1637",
+            "Năm sinh năm mất": "1587-?"
+        }
+    },
+    {
+        "Nguyễn Quốc Trinh": {
+            "Thứ tự": "52",
+            "Đời vua": "Lê Thần Tông",
+            "Quê": "Hà Nội",
+            "Ghi chú": " ",
+            "Tên": "Nguyễn Quốc Trinh",
+            "Năm đỗ trạng nguyên": "1659",
+            "Năm sinh năm mất": "1624-1674"
+        }
+    },
+    {
+        "Đặng Công Chất": {
+            "Thứ tự": "53",
+            "Đời vua": "Lê Thần Tông",
+            "Quê": "Hà Nội",
+            "Ghi chú": " ",
+            "Tên": "Đặng Công Chất",
+            "Năm đỗ trạng nguyên": "1661",
+            "Năm sinh năm mất": "1621-1683"
+        }
+    },
+    {
+        "Lưu Danh Công": {
+            "Thứ tự": "54",
+            "Đời vua": "Lê Huyền Tông",
+            "Quê": "Hà Nội",
+            "Ghi chú": " ",
+            "Tên": "Lưu Danh Công",
+            "Năm đỗ trạng nguyên": "1670",
+            "Năm sinh năm mất": "1643-?"
+        }
+    },
+    {
+        "Nguyễn Đăng Đạo": {
+            "Thứ tự": "55",
+            "Đời vua": "Lê Hy Tông",
+            "Quê": "Bắc Ninh",
+            "Ghi chú": "Trạng Bịu, Lưỡng quốc Trạng nguyên",
+            "Tên": "Nguyễn Đăng Đạo",
+            "Năm đỗ trạng nguyên": "1683",
+            "Năm sinh năm mất": "1650-1718"
+        }
+    },
+    {
+        "Trịnh Tuệ \/Trịnh Huệ": {
+            "Thứ tự": "56",
+            "Đời vua": "Lê Ý Tông",
+            "Quê": "Thanh Hóa",
+            "Ghi chú": "Trạng nguyên cuối cùng",
+            "Tên": "Trịnh Tuệ \/Trịnh Huệ",
+            "Năm đỗ trạng nguyên": "1736",
+            "Năm sinh năm mất": "1701-?"
+        }
+    }
+]
